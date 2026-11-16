@@ -1,0 +1,90 @@
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.exe
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.deps.json
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.runtimeconfig.json
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.pdb
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\MySqlConnector.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.AssemblyReference.cache
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAjoutArticle.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormArticles.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Articles.FormModifArticle.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAccueil.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormConnexion.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormAjoutFourn.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormFournisseurs.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormModifFourn.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Properties.Resources.resources
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.GenerateResource.cache
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfoInputs.cache
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfo.cs
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.CoreCompileInputs.cache
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPr.7EAC88B6.Up2Date
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\refint\TontonPrimeur.dll
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.pdb
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.genruntimeconfig.cache
+C:\Users\lenny\Desktop\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\ref\TontonPrimeur.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.exe
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.deps.json
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.runtimeconfig.json
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.pdb
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\MySqlConnector.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.AssemblyReference.cache
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAjoutArticle.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormArticles.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Articles.FormModifArticle.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAccueil.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormConnexion.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormAjoutFourn.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormFournisseurs.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormModifFourn.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Properties.Resources.resources
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.GenerateResource.cache
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.GeneratedMSBuildEditorConfig.editorconfig
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfoInputs.cache
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfo.cs
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.CoreCompileInputs.cache
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPr.7EAC88B6.Up2Date
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\refint\TontonPrimeur.dll
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.pdb
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.genruntimeconfig.cache
+E:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\ref\TontonPrimeur.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.exe
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.deps.json
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.runtimeconfig.json
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\TontonPrimeur.pdb
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\MySqlConnector.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.AssemblyReference.cache
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAjoutArticle.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormArticles.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Articles.FormModifArticle.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormAccueil.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormConnexion.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormAjoutFourn.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.FormFournisseurs.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Fournisseurs.FormModifFourn.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Properties.Resources.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.GenerateResource.cache
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfoInputs.cache
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.AssemblyInfo.cs
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPr.7EAC88B6.Up2Date
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\refint\TontonPrimeur.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.pdb
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.genruntimeconfig.cache
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\ref\TontonPrimeur.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\obj\Release\net10.0-windows\TontonPrimeur.Connexion.FormStats.resources
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\BTS SIO\BTS TSUP2\Tonton Primeur\ProjetTontonPrimeur\TontonPrimeur\bin\Release\net10.0-windows\WinForms.DataVisualization.dll

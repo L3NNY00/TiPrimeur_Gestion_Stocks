@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\connexion\\formaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\articles\\formarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\articles\\formarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\fournisseurs\\formfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\fournisseurs\\formfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formfournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\connexion\\formaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\connexion\\formstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\connexion\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\fournisseurs\\formajoutfourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formajoutfourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\articles\\formajoutarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formajoutarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\articles\\formajoutarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formajoutarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\articles\\formmodifarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formmodifarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\fournisseurs\\formmodiffourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formmodiffourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\articles\\formmodifarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\articles\\formmodifarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\connexion\\formstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\fournisseurs\\formmodiffourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formmodiffourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\tontonprimeur\\connexion\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\connexion\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\connexion\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|d:\\bts sio\\bts tsup2\\tonton primeur\\projettontonprimeur\\tontonprimeur\\fournisseurs\\formajoutfourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA92A577-76BF-26EC-07F5-E3599E6BF79D}|TontonPrimeur\\TontonPrimeur.csproj|solutionrelative:tontonprimeur\\fournisseurs\\formajoutfourn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormStats.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormStats.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormStats.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormStats.cs",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormStats.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv7gAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:44:12.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStats.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormStats.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormStats.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormStats.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormStats.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:42:19.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormConnexion.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:39:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormModifArticle.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:45:44.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormModifArticle.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormModifArticle.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormModifArticle.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormModifArticle.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:45:41.47Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\Database.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\Database.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\Database.cs",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:11:33.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Program.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Program.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Program.cs",
+              "RelativeToolTip": "TontonPrimeur\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:35:55.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormModifFourn.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:18:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormModifFourn.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormModifFourn.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormModifFourn.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormModifFourn.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:17:54.344Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAjoutFourn.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:06:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAjoutFourn.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormAjoutFourn.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:06:20.06Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAccueil.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:30:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAccueil.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormAccueil.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormAccueil.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormAccueil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:27:30.772Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormArticles.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormArticles.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormArticles.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormArticles.cs",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormArticles.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:20:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormArticles.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormArticles.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormArticles.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormArticles.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormArticles.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:19:56.488Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormConnexion.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Connexion\\FormConnexion.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Connexion\\FormConnexion.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Connexion\\FormConnexion.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:40:04.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAjoutArticle.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T14:58:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAjoutArticle.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Articles\\FormAjoutArticle.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Articles\\FormAjoutArticle.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Articles\\FormAjoutArticle.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T14:56:14.202Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormFournisseurs.cs",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T14:45:27.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormFournisseurs.cs [Conception]",
+              "DocumentMoniker": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "RelativeDocumentMoniker": "TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs",
+              "ToolTip": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs [Conception]",
+              "RelativeToolTip": "TontonPrimeur\\Fournisseurs\\FormFournisseurs.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T12:51:43.364Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

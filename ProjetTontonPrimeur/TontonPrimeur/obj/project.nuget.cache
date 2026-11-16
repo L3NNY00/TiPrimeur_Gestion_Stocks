@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7dYTOyPQd4=",
+  "success": true,
+  "projectFilePath": "D:\\BTS SIO\\BTS TSUP2\\Tonton Primeur\\ProjetTontonPrimeur\\TontonPrimeur\\TontonPrimeur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l.paul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\l.paul\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.15\\microsoft.extensions.logging.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\l.paul\\.nuget\\packages\\mysqlconnector\\3.0.0\\mysqlconnector.3.0.0.nupkg.sha512",
+    "C:\\Users\\l.paul\\.nuget\\packages\\winforms.datavisualization\\1.10.2\\winforms.datavisualization.1.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}
